@@ -1,0 +1,22 @@
+PODS:
+  - Kingfisher (5.15.4):
+    - Kingfisher/Core (= 5.15.4)
+  - Kingfisher/Core (5.15.4)
+  - ProgressHUD (13.4)
+
+DEPENDENCIES:
+  - Kingfisher (~> 5.0)
+  - ProgressHUD (~> 13.4)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - ProgressHUD
+
+SPEC CHECKSUMS:
+  Kingfisher: 657dc1077e5bbbfff864194c79f29e35b722d062
+  ProgressHUD: 137a7fc677487c5581668f4490563124fb35c232
+
+PODFILE CHECKSUM: b8e8606fa2b597e03ea766466c37f2694e06d5e1
+
+COCOAPODS: 1.9.3
